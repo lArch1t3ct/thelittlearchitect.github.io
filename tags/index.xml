@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Components</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/components/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/components/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frontend</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/frontend/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/frontend/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hooks</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/hooks/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/hooks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/javascript/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PreventDefault()</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/preventdefault/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/preventdefault/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/react/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UseRef</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/useref/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/useref/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UseState</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/usestate/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/usestate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Destructuring</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/destructuring/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/destructuring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Object</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/object/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/object/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Props</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/props/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/props/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

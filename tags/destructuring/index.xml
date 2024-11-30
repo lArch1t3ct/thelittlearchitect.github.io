@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Destructuring on </title>
+    <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/destructuring/</link>
+    <description>Recent content in Destructuring on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://larch1t3ct.github.io/thelittlearchitect.github.io/tags/destructuring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Props Object Destructuring</title>
+      <link>https://larch1t3ct.github.io/thelittlearchitect.github.io/posts/2024/november/props-object-destructuring-27112024/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://larch1t3ct.github.io/thelittlearchitect.github.io/posts/2024/november/props-object-destructuring-27112024/</guid>
+      <description>&lt;h1 id=&#34;greetings&#34;&gt;Greetings&lt;/h1&gt;&#xA;&lt;p&gt;Greetings from a passionate beginner front-end engineer to every single of you. I hope that you are having a wonderful day, you are improving yourself and wining your silent battles.&lt;/p&gt;&#xA;&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;&#xA;&lt;p&gt;After finishing the &lt;em&gt;React Basics&lt;/em&gt; course provided by &lt;em&gt;Meta&lt;/em&gt; on Coursera platform, which is part of the &lt;em&gt;Front-end Developer Professional Certificate&lt;/em&gt;, I ended up being puzzled about the way that a component accepts a parameter. In &lt;em&gt;React&lt;/em&gt; language, the way that a component accepts prop data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
